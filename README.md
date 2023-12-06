@@ -1,9 +1,10 @@
 
-<h1 align="center">Hi there, My name is Nisitha Lakshan</h1>
+<h1 align="center" font="Times New Roman">Hi there, My name is Nisitha Lakshan</h1>
 
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile+%F0%9F%8E%93" alt="Typing SVG" /></a></a>
-</p>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&center=true&vCenter=true&width=490&lines=%3E+....Welcome+to+my+GitHub+Profile....)
+</div>
 
 <h3 align="center">I am a Web Developer.</h3>
 
@@ -20,6 +21,22 @@
   </td>
 </tr>
 </table><br/>
+
+<!--
+<p align="left">
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code> 
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code> 
+  </p>
+ </div> 
+ -->
 
 ## Connect with me : 
 <p align="center">
