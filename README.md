@@ -6,7 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&center=true&vCenter=true&width=490&lines=%3E+....Welcome+to+my+GitHub+Profile....)
 </div>
 
-<h3 align="center">I am a Web Developer.</h3>
+<h3 align="center">𝑰 𝒂𝒎 𝒂 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓.</h3>
 
 <table align="center" border="3">
 <tr border="none">
@@ -49,6 +49,7 @@
       width="45"/></a>
   <a href="https://fb.com/Nizith_LK" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Nizith_LK" height="45" width="45" /></a>
+  <a href="https://stackoverflow.com/users/Nisitha Lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="Nisitha Lakshan" height="45" width="45" /></a></p>
 </p><br/>
 
 ## My Languages and Tools :
@@ -107,8 +108,8 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N-isith&theme=blue_green" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N-isith&theme=highcontrast" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N-isith&theme=highcontrast" height="180em" /><br/><br/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N-isith&theme=merko" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-isith&theme=merko" height="180em" />
+<!--<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N-isith&theme=merko" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-isith&theme=merko" height="180em" />-->
 </div>
   </p>
 <table/>
