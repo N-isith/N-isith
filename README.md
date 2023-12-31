@@ -96,11 +96,23 @@
   
   </td>
 </tr>
+<table/>
+
+<br/>
+
+## <p align="center">❤ Views and Followers</P>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=n-isith"> </a>
+    </td>
+    <td>
+      <a href="https://github.com/n-isith?tab=followers"><img src="https://img.shields.io/github/followers/n-isith?label=Followers&style=social" alt="GitHub Badge"></a>
+    </td>
+  </tr>
 </table>
 
-<br/>
-<br/>
-
+<!--
 <table align="center" border="3">
 <tr>
 <td width="50%" align="center">
@@ -113,21 +125,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N-isith&theme=highcontrast" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N-isith&theme=highcontrast" height="180em" /><br/><br/>
 <!--<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N-isith&theme=merko" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-isith&theme=merko" height="180em" />-->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-isith&theme=merko" height="180em" />
 </div>
   </p>
-<table/>
-  
-
-
-<br/>
-<br/>
-<br/>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=n-isith"> </a>
-<a href="https://github.com/n-isith?tab=followers"><img src="https://img.shields.io/github/followers/n-isith?label=Followers&style=social" alt="GitHub Badge"></a>
-<!---
-yohanawi/yohanawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table/>-->
