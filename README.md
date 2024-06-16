@@ -90,9 +90,9 @@
 <tr>
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=N-isith&theme=blue-green&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nizith&theme=blue-green&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=N-isith&theme=merko&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nizith&theme=merko&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
@@ -108,10 +108,10 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=n-isith"> </a>
+      <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=nizith"> </a>
     </td>
     <td>
-      <a href="https://github.com/n-isith?tab=followers"><img src="https://img.shields.io/github/followers/n-isith?label=Followers&style=social" alt="GitHub Badge"></a>
+      <a href="https://github.com/nizith?tab=followers"><img src="https://img.shields.io/github/followers/nizith?label=Followers&style=social" alt="GitHub Badge"></a>
     </td>
   </tr>
 </table>
